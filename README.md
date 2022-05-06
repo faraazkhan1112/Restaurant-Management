@@ -14,3 +14,8 @@ The features of the application include:
 ## Dependencies
 * JDK Version 15 or above
 * PostgresQL installed and integrated with the java program (ref: https://www.tutorialspoint.com/postgresql/postgresql_java.htm)
+
+## Output Screenshots
+![***Output Screenshot 1***](oooadss1.png)
+![***Output Screenshot 2***](oooadss2.png)
+![***Output Screenshot 3***](oooadss3.png)
