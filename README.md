@@ -1,5 +1,5 @@
 # Restaurant Management
-![***Output Screenshot 1***](javab.svg)
+![***Output Screenshot 1***](java.svg)
 ![***Output Screenshot 1***](postgresb.svg)
 
 ***Team ID: C4*** \
