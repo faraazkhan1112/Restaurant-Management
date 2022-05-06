@@ -1,5 +1,6 @@
 # Restaurant Management
 ![***Output Screenshot 1***](javab.svg)
+![***Output Screenshot 1***](postgresqlb.svg)
 
 ***Team ID: C4*** \
 *Eshan Deb* | *Faraaz Khan* | *Sai Manoj* \
