@@ -1,8 +1,5 @@
 # Restaurant Management System
-***Team ID: C4*** \
-*Eshan Deb 
-*Faraaz Khan
-*Sai Manoj
+***Team ID: C4*** [Eshan Deb, Faraaz Khan, Sai Manoj] \
 This is a Restaurant Management System implemented using Java. It uses a PostgreSQL database.
 The features of the application include:
   * User Login
