@@ -18,5 +18,5 @@ The features of the application include:
 ## Output Screenshots
 ![***Output Screenshot 1***](ooadss1.jpg)
 ![***Output Screenshot 2***](ooadss2.jpg)
-<img src="ooadss3.jpg" width="700" height="500">
+![***Output Screenshot 2***](ooadss3.jpg)
 
