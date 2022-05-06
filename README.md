@@ -1,5 +1,5 @@
 # Restaurant Management
-[![forthebadge](https://forthebadge.com/generator/?plabel=Sample&slabel=JAVA)](https://forthebadge.com)
+![***Output Screenshot 1***](javab.svg)
 
 ***Team ID: C4*** \
 *Eshan Deb* | *Faraaz Khan* | *Sai Manoj* \
