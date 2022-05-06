@@ -1,4 +1,5 @@
 # Restaurant Management
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 ***Team ID: C4*** \
 *Eshan Deb* | *Faraaz Khan* | *Sai Manoj* \
 This is a Restaurant Management System implemented using Java. It uses a PostgreSQL database.
