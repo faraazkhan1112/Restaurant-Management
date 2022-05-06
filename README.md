@@ -18,4 +18,4 @@ The features of the application include:
 ## Output Screenshots
 ![***Output Screenshot 1***](ooadss1.jpg)
 ![***Output Screenshot 2***](ooadss2.jpg)
-![***Output Screenshot 3***](ooadss3.jpg)
+
