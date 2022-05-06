@@ -11,5 +11,6 @@ The features of the application include:
 *$ javac Main.java* \
 *$ java java -cp "<PATH_TO_DRIVER>\postgresql-42.3.4.jar;" Main.java*
 
+## Dependencies
 * JDK Version 15 or above
 * PostgresQL installed and integrated with the java program (ref: https://www.tutorialspoint.com/postgresql/postgresql_java.htm)
