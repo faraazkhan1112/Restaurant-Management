@@ -16,7 +16,7 @@ The features of the application include:
 * PostgresQL installed and integrated with the java program (ref: https://www.tutorialspoint.com/postgresql/postgresql_java.htm)
 
 ## Output Screenshots
-![***Output Screenshot 1***](ooadss1.jpg)
-![***Output Screenshot 2***](ooadss2.jpg)
+![***Output Screenshot 1***](ooadss11.jpg)
+![***Output Screenshot 2***](ooadss21.jpg)
 ![***Output Screenshot 2***](ooadss31.jpg)
 
