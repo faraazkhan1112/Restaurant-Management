@@ -9,7 +9,7 @@ The features of the application include:
 
 ## To Run
 *$ javac Main.java* \
-*$ java java -cp "<PATH_TO_DRIVER>\postgresql-42.3.4.jar;" Main.java*
+*$ java -cp "<PATH_TO_DRIVER>\postgresql-42.3.4.jar;" Main.java*
 
 ## Dependencies
 * JDK Version 15 or above
